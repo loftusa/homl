@@ -1,0 +1,8 @@
+{
+    "python.formatting.provider": "black",
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.pythonPath": "/Users/alex/.pyenv/versions/3.8.5/bin/python"
+}
